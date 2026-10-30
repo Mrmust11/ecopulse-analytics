@@ -34,3 +34,7 @@
    ```bash
    git clone [https://github.com/YOUR_USERNAME/ecopulse-analytics.git](https://github.com/YOUR_USERNAME/ecopulse-analytics.git)
    cd ecopulse-analytics
+
+pip install -r requirements.txt
+
+streamlit run app.py
