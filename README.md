@@ -33,8 +33,13 @@
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/ecopulse-analytics.git](https://github.com/YOUR_USERNAME/ecopulse-analytics.git)
+
+
    cd ecopulse-analytics
 
 pip install -r requirements.txt
 
 streamlit run app.py
+
+## Streamlit Direct Link
+https://ecopulse-analytics-vjjqjtxpzbppe38sioqu3z.streamlit.app/
